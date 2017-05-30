@@ -1,5 +1,5 @@
 rm(list = ls(all = T))
-setwd("P://Documents//INSOFE//Activities//Module3_MachineLearning//Day23_RandomForest//21070318_Batch24_CSE7405c_RF_Adaboost_Lab06")
+setwd("P://Documents//MachineLearning//Stacking")
 data <- read.csv("UniversalBank.csv", header = T)
 
 # Will be person get a "Personal Loan" or not.
