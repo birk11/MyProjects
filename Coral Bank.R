@@ -3,7 +3,7 @@
 
 rm(list=ls())
 
-setwd("P://Documents//INSOFE//Scholarship Test//20170311_Batch 24_ScholarshipTest")
+setwd("C://Users//kisho//Downloads")
 
 bankdatatrain <- read.csv("data_train.csv",header = T,sep=",")
 bankdatatest <-read.csv("data_test.csv",header = T,sep=",")
