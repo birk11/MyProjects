@@ -1,0 +1,20 @@
+
+R code
+-------------------------------------------------------
+1.Packages_Libraries (this contains all the Packages and libraries which we have used in building this entire
+2.Script1
+3.Script2 
+
+
+Application (Netflix Recommendation Engine-Shiny R)
+-------------------------------------------------------
+1. In the "Shiny R" script(inside "netflix_search_engine" folder), Change the path into which this entire folder ("netflix_search_engine") has been copied.
+2.open app.R in Rstudio and click "Run App" toward upper right.
+
+
+To Run Application:
+--------------------------
+1.Run "Shiny.R" script.
+2.Run app.R script
+
+Note: Please update the current directories with your respective directory into which this entire folder has been copied .
